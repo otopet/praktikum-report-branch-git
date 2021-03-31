@@ -1,0 +1,26 @@
+Name : Putri Septiana
+NPM  : 19020007
+4SIP1
+Laporan Praktikum
+selasa 30 Maret 2021
+1. Material
+   Git & Github
+2. Material goals
+   Learn about Branch
+   How to make a new branch
+   Download & Install Git
+   
+CONTENTS 
+Branch
+How to make a new branch from main
+If branch has conflicts
+Resolve :
+-Picks <Resolve conflicts>
+-Edit file 
+-and then, picks <Mark a resolved>
+finish, we can merge
+
+how to download Github
+link : git-scm.com
+download for windows
+
