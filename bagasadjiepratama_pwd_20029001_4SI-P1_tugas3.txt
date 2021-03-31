@@ -1,0 +1,22 @@
+Nama             : Bagas Adjie Pratama
+NPM              : 20029001
+Kelas            : 4SIP1
+Materi           : Git
+Tujuan Materi    : Mengenal Fungsi dan perintah Command Prompt yang ada di git bash
+Laporan Pratikum : 3
+Materi Tanggal   : 31 Maret 2021
+
+Berikut ini adalah perintah dan fungsi Command Prompt yang ada pada git :
+- git init                  : inisialisasi folder jadi repo
+- git status                : untuk melihat apakah ada perubahan file
+- git add <nama file>       : memindahkan file kedalam staging area
+- git add .                 : memindahkan file secara kolektif kedalam staging area
+- git commit -m "isi pesan" : untuk melakukann commit
+- git log                   : melihat riwayat perubahan/log/commit
+- git log -2                : melihat log sebanyak 2 commit
+- git log -- <nama file>    : melihat log di file yang terpilih
+- git config --global user.name "username" : Untuk Mengecek Username yang terdapat pada git
+- git config --global user.email "user email" : Untuk mengecek email yang terdapat pada git
+
+Cara kerja git untuk menjadikan folder jadi repo
+Untuk membuat folder baruDengan cara : klik kanan lalu pilih <Git Bash Here>
