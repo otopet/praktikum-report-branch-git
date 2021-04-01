@@ -1,0 +1,25 @@
+Nama : Putri Septiana
+NPM  : 190200007
+Kelas 4SIP1
+
+Laporan Praktikum
+Rabu, 31 Maret 2021
+Materi        : Git Bash
+Tujuan Materi : Git Bash Command
+
+isi laporan
+urutan perintah (command) di Git
+git init                  : inisialisasi folder jadi repo
+git status                : untuk melihat apakah ada perubahan file
+git add <nama file>       : memindahkan file kedalam staging area
+git add .                 : memindahkan file secara kolektif kedalam staging area
+git commit -m "isi pesan" : untuk melakukann commit
+git log                   : melihat riwayat perubahan/log/commit
+git log -2                : melihat log sebanyak 2 commit
+git log -- <nama file>    : melihat log di file yang terpilih
+git config --global user.name "username"
+git config --global user.email "user email"
+
+cara menjadikan folder jadi repo
+membuat folder baru
+klik kanan pilih <Git Bash Here>
