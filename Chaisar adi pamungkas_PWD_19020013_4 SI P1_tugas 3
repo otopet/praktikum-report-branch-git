@@ -1,0 +1,19 @@
+Nama          : Chaisar Adi Pamungkas
+NPM           : 19020013
+MATA KULIAH   : Pemrograman Web Dinamis
+MATERI        : Git bash
+TUJUAN MATERI : praktek git bash comand .
+
+meteri tanggal 31-3-2021
+
+urutan perintah git
+git config --global user.name "KSL UR"
+git config --global user.email ksl@contoh.com
+git init
+git status
+git add (nama file)
+git add.
+git comit -m "isi pesan"
+git log
+git log 2
+git -- <nama file>
